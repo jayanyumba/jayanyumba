@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayanyumba
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java, c++, HTML, CSS and Python
+- 🌱 I’m currently learning java, c++, HTML, CSS,Python, and javascrip
 - 💞️ I’m looking to collaborate on creating a software
 - 📫 How to reach me email- jayanyumba@gmail.com
 
