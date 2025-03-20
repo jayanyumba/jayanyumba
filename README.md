@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @jayanyumba
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java, c++, HTML, CSS,Python, and javascrip
-- 💞️ I’m looking to collaborate on creating a software
-- 📫 How to reach me email- jayanyumba@gmail.com
+Here's a **GitHub profile description** that reflects your skills, interests, and goals:  
 
-<!---
-jayanyumba/jayanyumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+**👋 Hey, I’m Jeremy | Tech Innovator & AI Enthusiast**  
+🚀 **Co-founder of Uvar.AI** | 💻 **Programmer** | 🤖 **AI & Automation Enthusiast** | 🎥 **Content Creator**  
+
+I'm a **Kenyan developer and entrepreneur** passionate about **AI, automation, and business solutions.** My goal is to build innovative tools that help businesses operate more efficiently and **honor God** through ethical and impactful technology.  
+
+**💡 What I Do:**  
+🔹 Build **AI-powered chatbots & automation solutions**  
+🔹 Develop **business management & IT support systems**  
+🔹 Explore **Python, AI, and automation**  
+🔹 Work on **tech-driven marketing & sales automation**  
+🔹 Create **high-quality digital content** (video editing, design, & web development)  
+**🔥 Current Focus:**  
+📌 Growing **Uvar.AI** into a leading AI & automation agency  
+📌 Developing **chatbot prototypes** for various industries  
+📌 Enhancing **business automation & IT support tools**  
+📌 Expanding my knowledge in **Python, AI, and machine learning**  
+
+**📫 Connect with Me:**  
+Let’s innovate and automate! 🚀  
