@@ -16,4 +16,6 @@ I'm a **Kenyan developer and entrepreneur** passionate about **AI, automation, a
 📌 Expanding my knowledge in **Python, AI, and machine learning**  
 
 **📫 Connect with Me:**  
+linkedIn:https://www.linkedin.com/in/jeremy-anyumba-676b81245/
+Instagram: https://www.instagram.com/jay.anyumba/
 Let’s innovate and automate! 🚀  
