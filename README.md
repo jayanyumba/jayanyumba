@@ -1,7 +1,3 @@
-Here's a **GitHub profile description** that reflects your skills, interests, and goals:  
-
----
-
 **👋 Hey, I’m Jeremy | Tech Innovator & AI Enthusiast**  
 🚀 **Co-founder of Uvar.AI** | 💻 **Programmer** | 🤖 **AI & Automation Enthusiast** | 🎥 **Content Creator**  
 
